@@ -1,0 +1,12 @@
+site:
+  title: mp-mashop
+  description: site web de marielle pottier
+  url: mp-mashop.s3-website-eu-west-1.amazonaws.com
+
+author:
+  name: marielle pottier
+  email: marielle@mp-mashop.fr
+
+social:
+  facebook: http://fb
+  instagram:http://insta
